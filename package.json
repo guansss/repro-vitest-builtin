@@ -1,0 +1,17 @@
+{
+  "name": "repro-vitest-builtin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@vitest/browser": "1.0.0-beta.5",
+    "url": "^0.11.3",
+    "vitest": "^1.0.0-beta.5",
+    "webdriverio": "^8.23.1"
+  }
+}
